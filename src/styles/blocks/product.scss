@@ -10,7 +10,7 @@
   &__image {
     display: flex;
     justify-content: center;
-    transition-duration: 400ms;
+    transition: transform 400ms;
     cursor: pointer;
     border: 3px solid $white;
     border-radius: 5px;
